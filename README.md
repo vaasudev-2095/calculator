@@ -54,4 +54,4 @@ Sometimes, random thoughts turn into interesting projects.
 
 **Let's see where this one goes.**
 
-**P.S.** If this README doesn't sound like a human wrote it, well... that's because ChatGPT helped me write it. 😂
+**P.S.** If this README doesn't sound like a human wrote it, well... that's because ChatGPT helped me write it.
